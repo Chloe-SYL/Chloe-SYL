@@ -1,4 +1,4 @@
-## Hi there 👋
+## Do what you love and Love what you do
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloe-SYL&show_icons=true&theme=radical)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syl8247)](https://solved.ac/syl8247)​
 <!--
