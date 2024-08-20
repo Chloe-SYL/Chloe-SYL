@@ -1,5 +1,6 @@
 ## Hi there 👋
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloe-SYL&show_icons=true&theme=radical)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloe-SYL&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syl8247)](https://solved.ac/syl8247)​
 <!--
 **Chloe-SYL/Chloe-SYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
